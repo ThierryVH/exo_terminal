@@ -1,0 +1,18 @@
+### [Liste des commandes](https://doc.ubuntu-fr.org/tutoriel/console_commandes_de_base) à voir + options
+- **man**
+- **pwd**
+- **ls**
+- **cd** (. .. / ~)
+- **touch**
+- **mkdir**
+- **cp**
+- **mv**
+- **rm**
+- **rmdir**
+- ln
+- find
+- grep ( | )
+- cat
+- chmod
+- chown
+- chgrp
