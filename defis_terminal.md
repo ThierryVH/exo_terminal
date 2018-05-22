@@ -77,6 +77,7 @@ Cette architecture vous permettra d'organiser votre travail. Les projets en cour
 - Listez le contenu du dossier en détails et attardez vous sur le propriétaire et le Groupe
 - Si le défi n°6 a bien été réalisé, le fichier **Fichier_sudo** devrait vous appartenir, mais appartient toujours au groupe **root**
 - Modifier le groupe du fichier **Fichier_sudo** pour qu'il appartienne à votre groupe (votre nom d'utilisateur)
+
 ex : -rw-r--r-- 1 thierry thierry 0 mai 22 11:21 Fichier_sudo
 - Listez le contenu pour vous assurer des changements
 - Supprimez le fichier **Fichier_sudo** et créez le à nouveau en mode sudo
